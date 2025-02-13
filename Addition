@@ -1,0 +1,11 @@
+Console.WriteLine("enter the first number: ");
+int num1 = Convert.ToDouble(Console.WriteLine());
+
+Console.WriteLine("enter the second number: ");
+int num2 = Convert.ToDouble(Console.WriteLine());
+
+int sum;
+sum = num1 + num2;
+
+Maryam zahid 
+010-SET-2024
